@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6q5L+sjzKxkgein7awiEKrGghj2/gdBWWV0jcia878wbxGA4kMppznTUeDzg81R4jFiW3jZ8ywt3rkowNoeGnw==",
+  "success": true,
+  "projectFilePath": "/Users/won/Workspace/ParquetTest/ParquetTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/won/.nuget/packages/apache.arrow/2.0.0/apache.arrow.2.0.0.nupkg.sha512",
+    "/Users/won/.nuget/packages/ironcompress/1.3.0/ironcompress.1.3.0.nupkg.sha512",
+    "/Users/won/.nuget/packages/microsoft.data.analysis/0.20.1/microsoft.data.analysis.0.20.1.nupkg.sha512",
+    "/Users/won/.nuget/packages/microsoft.io.recyclablememorystream/2.3.2/microsoft.io.recyclablememorystream.2.3.2.nupkg.sha512",
+    "/Users/won/.nuget/packages/microsoft.ml.dataview/2.0.1/microsoft.ml.dataview.2.0.1.nupkg.sha512",
+    "/Users/won/.nuget/packages/parquet.net/4.10.1/parquet.net.4.10.1.nupkg.sha512",
+    "/Users/won/.nuget/packages/snappier/1.0.0/snappier.1.0.0.nupkg.sha512",
+    "/Users/won/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/won/.nuget/packages/system.collections.immutable/1.5.0/system.collections.immutable.1.5.0.nupkg.sha512",
+    "/Users/won/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/won/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/won/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
